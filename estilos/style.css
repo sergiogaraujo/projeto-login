@@ -78,8 +78,7 @@ div.campo > label {
 
 div.campo > i {
     color: #FFFFFF;
-    /*background-color: black;*/
-    font-size: 1.9em;
+    font-size: 2em;
     width: 40px;
     padding: 5px;
 }
@@ -87,15 +86,15 @@ div.campo > i {
 div.campo > input {
     background-color: #49cfcd;
     font-size: 1em;
-    width: calc(100% - 45px);
+    width: calc(100% - 40px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateX(-10px);
+    transform: translateX(-12px);
 }
 
-div.campo > input:focus-within {
+div.campo > input:focus {
     background-color: #FFFFFF;
     border: none;
 }
@@ -138,6 +137,7 @@ form > a.botao:hover {
 form > a.botao > i {
     font-size: 0.8em;
 }
+
 
 
 
