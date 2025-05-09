@@ -86,12 +86,12 @@ div.campo > i {
 div.campo > input {
     background-color: #49cfcd;
     font-size: 1em;
-    width: calc(100% - 40px);
+    width: calc(100% - 29px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
-    transform: translateX(-12px);
+    padding: 8px;
+    transform: translateX(-0px);
 }
 
 div.campo > input:focus {
